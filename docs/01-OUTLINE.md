@@ -1,8 +1,4 @@
----
-author: HackSoc
-title: 'HackSoc Manafesto'
-...
-# HackSoc Manifesto
+# Outline
 
 ## Events  >_We will..._
 
