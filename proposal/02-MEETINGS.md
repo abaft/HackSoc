@@ -4,7 +4,7 @@
 Our weekly meetings will be for the members of HackSoc to get together, discuss their projects and ideas, make friends, and generally become better acquainted with each other.
 On occasion this weekly meeting may be overtaken by a specific event; be this a 'social' or an organised speaker/presentation.
 A meeting place for the regular meetings is yet to be found, we suspect this will be a bar or public house in the local area.
-At this meeting we would give time to any member who wanted to present their projects to their peers, and provide adequate infrastructure for this to occur
+At this meeting we would give time to any member who wanted to present their projects to their peers, and provide adequate infrastructure for this to occur.
 
 ## Hackathons
 We would hope to organise regular 'hackathons'.
@@ -20,5 +20,5 @@ The themes could be almost anything basic principles of computer programming to 
 
 ## Speakers
 As aluded to earlier, we as HackSoc would intend to invite various experts in their feilds to give guest lectures/seminars on their area of experties.
-This would require us to have sufficent resourses for speeker fees ect. and is likely to be our single biggest expence.
+This would require us to have sufficent resourses for speaker fees etc. and is likely to be our single biggest expence.
 We hope, however, the union and the School Of Computing would help fincace these talks as they would be enourmously benificial to the students studying these diciplines and the union.
