@@ -1,6 +1,6 @@
 # HackSoc Manifesto
 
-## Events  _We will..._
+## Events  >_We will..._
 
 * Have weekly meetings in order to establish details about new events
 * Have weekly programming project presentations
@@ -8,7 +8,7 @@
 * Organize Hackathons
 * Have speakers from industry talking about their experience and topics at University
 
-## Benefits _We will provide..._
+## Benefits >_We will provide..._
 
 * Easy access to open-source under-development projects
 * Full access to learning resources
