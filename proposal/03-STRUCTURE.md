@@ -12,7 +12,7 @@ The Treasurer is _Benjamin Chalmers_.
 His role will be to be responsible for the bank accounts and all group transactions and will be the 2$\text{nd}$ point of contact for student activities and the rest of the LUU; assuming the role of the chair when he is unavailable.
 
 ## Secretary
-The Secretary will be _Diana Marin_
+The Secretary will be _Diana Marin_.
 
 Her role will be to arrange and minute committee meetings. She will also be responsible for the maintaining and keeping up-to date of members details.
 
