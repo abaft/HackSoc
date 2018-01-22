@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[9pt,a4paper]{article}
 \usepackage[T1]{fontenc}
 \renewcommand*\familydefault{\ttdefault} %% Only if the base font of the document is to be typewriter style
 
