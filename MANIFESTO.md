@@ -7,6 +7,7 @@
 * Organize social events for people interested in the IT subject
 * Organize Hackathons
 * Have speakers from industry talking about their experience and topics at University
+* Organize Hackathons Teams that will represent HackSoc at MLH/Other
 
 ## Benefits >_We will provide..._
 
