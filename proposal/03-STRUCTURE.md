@@ -22,6 +22,6 @@ The Social Secretary will be _Aitor Baltasar Fernandez_.
 His role will be to arrange social events and coerce members to attend them.
 
 ## Cheif Technical Officer
-The Cheif Technical Officer will be _Lucas Sans_.
+The Cheif Technical Officer will be _Luca-Alexandru Sas_.
 
 His role will be to advise on esoteric technical matters and help organise the more technical events.
