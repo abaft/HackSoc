@@ -2,9 +2,9 @@
 
 ## Weekly Meetings
 Our weekly meetings will be for the members of HackSoc to get together; discuss their projects and ideas; make friends and generally become better acquainted with one another.
-On occasion this weekly meeting may be overtaken by a specific event; be this a _social_ an organised speaker or a presentation.
+On occasion, this weekly meeting may be overtaken by a specific event; be this a _social_ an organised speaker or a presentation.
 A location for the regular meetings is yet to be found, however, we suspect this will be a bar or public house in the local area.
-At this meeting we would give time to any member who wanted to present their projects to their peers, and provide adequate infrastructure for this to occur.
+At this meeting, we would give time to any member who wanted to present their projects to their peers, and provide adequate infrastructure for this to occur.
 
 ## Hackathons
 We would hope to organise regular _hackathons_.
