@@ -18,6 +18,6 @@ The themes could be almost anything, from basic principles of computer programmi
 Our aim would be to promote technical aptitude among our peers.
 
 ## Speakers
-As aluded to earlier, as HackSoc we would intend to invite various experts in their fields to give guest lectures/seminars on their area of experties.
-This would require us to have sufficent resourses for speaker fees, which is likely to be our single biggest expence.
-We hope, however, the union and the School of Computing would help fincace these talks as they would be enourmously benificial to the students studying technical diciplines.
+As aluded to earlier, as HackSoc we would intend to invite various experts in their fields to give guest lectures/seminars on their area of expertise.
+This would require us to have sufficent resources for speaker fees, which is likely to be our single biggest expence.
+We hope, however, the union and the School of Computing would help finance these talks as they would be enourmously beneficial to the students studying technical diciplines.
