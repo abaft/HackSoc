@@ -19,6 +19,7 @@
 * Full access to learning resources
 * Fully accessible discord channel
 * Non-formal teaching sessions where we will try to introduce programming to everyone interested
+* Award system for participating at events or winning challenges
 
 ## Society Outreach
 
