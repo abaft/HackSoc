@@ -11,6 +11,7 @@
 * Organise Hackathons
 * Have speakers from industry talking about their experience and topics at University
 * Organise Hackathons Teams that will represent HackSoc at Major League Hacking events and other such contests
+* Organise hubs for Global Game Jam, Google Hash Code and Ludum Dare Jam
 
 ## Benefits > _We will provide..._
 
