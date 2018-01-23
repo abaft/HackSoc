@@ -4,10 +4,12 @@
 
 * Have weekly meetings in order to establish details about new events
 * Have weekly programming project presentations
-* Organize social events for people interested in the IT subject
-* Organize Hackathons
+* Organise social events to cater to a wide variety of tastes such as but not necessarily limited to: film/games nights, pub socials, lunch hours
+* Coding challenges
+* Organise trips to places of significant interest relating to Computers and Computer Science
+* Organise Hackathons
 * Have speakers from industry talking about their experience and topics at University
-* Organize Hackathons Teams that will represent HackSoc at MLH/Other
+* Organise Hackathons Teams that will represent HackSoc at MLH/Other
 
 ## Benefits > _We will provide..._
 
