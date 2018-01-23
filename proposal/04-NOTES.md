@@ -16,3 +16,7 @@ We hope that being a part of the LUU would lend us a certain degree of legitimac
 There are clear advantages, including the offer of funding to our group.
 
 We would also like to operate in cooperation with other societies in the LUU and be an active participant in the general student body.
+
+## Membership Fee
+
+To aid in funding the society we would expect a membership fee of £4.
