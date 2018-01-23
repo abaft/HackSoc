@@ -2,7 +2,7 @@
 # Committee
 
 ## Chair
-The President is _Mugurel-Adrian Enache_.
+The Chair is _Mugurel-Adrian Enache_.
 
 It will be his role to have responsibility for the efficent running of HackSoc.
 He will also be the main point of contact between HackSoc and the wider LUU.
