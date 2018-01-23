@@ -17,7 +17,7 @@ The Secretary will be _Diana Marin_.
 Her role will be to arrange and minute committee meetings. She will also be responsible for the maintaining and keeping up-to date of members details.
 
 ## Social Secretary
-The Social Secretary will be _Aitor Baltasar Fernandez_.
+The Social Secretary will be _Aitor Loyens Fernandez_.
 
 His role will be to arrange social events and coerce members to attend them.
 
