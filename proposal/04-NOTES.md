@@ -3,7 +3,7 @@
 ## The Future
 
 In the future we would hope to increase the number of events we are able to run, along with building the membership and popularity of our group.
-We also would love to explore and intergrate other techincal hobbies into our society, such as amatuer radio and hobbyist electronics.
+We also would love to explore and integrate other techincal hobbies into our society, such as amateur radio and hobbyist electronics.
 
 ## CompSoc
 
