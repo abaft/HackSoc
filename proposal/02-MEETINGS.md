@@ -21,4 +21,4 @@ The themes could be almost anything basic principles of computer programming to 
 ## Speakers
 As aluded to earlier, we as HackSoc would intend to invite various experts in their feilds to give guest lectures/seminars on their area of experties.
 This would require us to have sufficent resourses for speaker fees etc. and is likely to be our single biggest expence.
-We hope, however, the union and the School Of Computing would help fincace these talks as they would be enourmously benificial to the students studying these diciplines and the union.
+We hope, however, the union and the School of Computing would help fincace these talks as they would be enourmously benificial to the students studying these diciplines and the union.
