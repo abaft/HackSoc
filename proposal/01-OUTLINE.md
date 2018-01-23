@@ -11,7 +11,6 @@
 * Organise Hackathons
 * Have speakers from industry talking about their experience and topics at University
 * Organise Hackathons Teams that will represent HackSoc at MLH/Other
-* Make DEC-10 work again
 
 ## Benefits > _We will provide..._
 
