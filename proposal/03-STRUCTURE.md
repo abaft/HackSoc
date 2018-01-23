@@ -21,7 +21,7 @@ The Social Secretary will be _Aitor Loyens Fernandez_.
 
 His role will be to arrange social events and coerce members to attend them.
 
-## Cheif Technical Officer
-The Cheif Technical Officer will be _Luca-Alexandru Sas_.
+## Chief Technical Officer
+The Chief Technical Officer will be _Luca Alexandru Sas_.
 
 His role will be to advise on esoteric technical matters and help organise the more technical events.
