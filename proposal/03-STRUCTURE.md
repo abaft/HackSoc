@@ -3,25 +3,30 @@
 ## Chair
 The President is _Mugurel-Adrian Enache_.
 
-His role will to be responsible for the running of HackSoc and being overall responsible for everything.
+It will be his role to have responsibility for the efficent running of HackSoc.
 He will also be the main point of contact between HackSoc and the wider LUU.
 
 ## Treasurer
 The Treasurer is _Benjamin Chalmers_.
 
-His role will be to be responsible for the bank accounts and all group transactions and will be the 2$\text{nd}$ point of contact for student activities and the rest of the LUU; assuming the role of the chair when he is unavailable.
+It will be his role to have responsibility for the financial accounts and will be the 2$\text{nd}$ point of contact for student activities and the rest of the LUU; assuming the role of the chair when they are unavailable.
 
 ## Secretary
 The Secretary will be _Diana Marin_.
 
-Her role will be to arrange and minute committee meetings. She will also be responsible for the maintaining and keeping up-to date of members details.
+Her role will be to arrange and minute committee meetings. She will also be responsible keeping members details up to date.
 
 ## Social Secretary
-The Social Secretary will be _Aitor Loyens Fernandez_.
+The Social Secretary will be _Aitor Fernandez_.
 
 His role will be to arrange social events and coerce members to attend them.
 
 ## Chief Technical Officer
-The Chief Technical Officer will be _Luca Alexandru Sas_.
+The Chief Technical Officer will be _Luca Sas_.
 
 His role will be to advise on esoteric technical matters and help organise the more technical events.
+
+## Head Developer
+The Head Developer will be _Joshua Burke_
+
+It will be his role to manage community development projects.
