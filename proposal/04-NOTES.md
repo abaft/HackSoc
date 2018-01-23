@@ -19,4 +19,4 @@ We would also like to operate in cooperation with other societies in the LUU and
 
 ## Membership Fee
 
-To aid in funding the society we would expect a membership fee of £4.
+To aid in funding the society we would expect a membership fee of \textsterling4.
