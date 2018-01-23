@@ -6,6 +6,7 @@
 * Have weekly programming project presentations
 * Organise social events to cater to a wide variety of tastes such as but not necessarily limited to: film/games nights, pub socials, lunch hours
 * Coding challenges
+* Game Development and Engines
 * Organise trips to places of significant interest relating to Computers and Computer Science
 * Organise Hackathons
 * Have speakers from industry talking about their experience and topics at University
