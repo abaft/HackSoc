@@ -13,10 +13,8 @@ This solution is then usually judged to a specific criteria and the best solutio
 Often this would involve some sort of prize.
 
 ## Outreach/GIAGs
-It is our opinion that the rates of technical literacy among the general university population is low.
-We feel that in our fast adapting modern world a these basic technical skills are becoming evermore necessary, and as a society of technically literate people, we feel it our duty to inform others of how they can make computers work for them (and not the other way around).
-To that end, we would attempt to run 'outreach' events, in which we invite people from all over the university to 'Give It A Go' and learn something they didn't know about computers.
-The themes could be almost anything basic principles of computer programming to basic web development and our aim would be to have people come out more informed than when they went in.
+We would attempt to run 'outreach' events, in which we invite people from all over the university to 'Give It A Go' and learn something they did not know about computers.
+The themes could be almost anything basic principles of computer programming to basic game development and our aim would be to have people come out more informed than when they went in.
 
 ## Speakers
 As aluded to earlier, we as HackSoc would intend to invite various experts in their feilds to give guest lectures/seminars on their area of experties.
