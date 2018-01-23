@@ -10,7 +10,7 @@
 * Organise trips to places of significant interest relating to Computers and Computer Science
 * Organise Hackathons
 * Have speakers from industry talking about their experience and topics at University
-* Organise Hackathons Teams that will represent HackSoc at MLH/Other
+* Organise Hackathons Teams that will represent HackSoc at Major League Hacking events and other such contests
 
 ## Benefits > _We will provide..._
 
