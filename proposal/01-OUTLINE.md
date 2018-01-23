@@ -4,7 +4,7 @@
 
 * Have weekly meetings in order to establish details about new events
 * Have weekly programming project presentations
-* Organise social events to cater to a wide variety of tastes such as but not necessarily limited to: film/games nights, pub socials and coding challenges
+* Organise social events to cater to a wide variety of tastes such as but not necessarily limited to: film/games nights, pub socials and casual coding games/challenges.
 * Organise trips to places of significant interest relating to Computers and Computer Science
 * Organise Hackathons
 * Have speakers from industry talking about their experience and topics at University
