@@ -22,10 +22,10 @@ The Social Secretary will be _Aitor Fernandez_.
 
 His role will be to arrange social events and coerce members to attend them.
 
-## Chief Technical Officer
-The Chief Technical Officer will be _Luca Sas_.
+%## Chief Technical Officer
+%The Chief Technical Officer will be _Luca Sas_.
 
-His role will be to advise on esoteric technical matters and help organise the more technical events.
+%His role will be to advise on esoteric technical matters and help organise the more technical events.
 
 ## Head Developer
 The Head Developer will be _Joshua Burke_
